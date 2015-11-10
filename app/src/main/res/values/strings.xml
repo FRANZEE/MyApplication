@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="Text"></string>
+    <string name="btnHelloWorld">Say \"Hello World!\"</string>
+    <string name="btnGoodBye">Say \"Good bye!\"</string>
+    <string name="btnToAnotherActivity">Go to another screen</string>
+    <string name="textView">text</string>
+    <string name="btnBack">Back to main screen</string>
 </resources>
